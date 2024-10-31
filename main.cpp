@@ -8,7 +8,6 @@ using std::string;
 void creaFile();
 void pulisci();
 void leggiFile();
-void rimuoviFile();
 
 int main(void) {
     std::setlocale(LC_ALL, "it_IT.utf8");
