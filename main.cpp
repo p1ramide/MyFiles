@@ -1,7 +1,6 @@
 #include <iostream>
 #include <clocale>
 #include <fstream>
-#include <cstdio>
 #include <string>
 
 using std::string;
